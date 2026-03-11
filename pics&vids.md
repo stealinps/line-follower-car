@@ -13,3 +13,6 @@ Cover
 
 <img width="884" height="624" alt="freecad_L3VpZfsjit" src="https://github.com/user-attachments/assets/12e794c3-d121-47b9-8a89-3c9827821329" /><br/>
 Covered Car Chassis
+
+<img width="927" height="456" alt="freecad_Wu2rZjXc3u" src="https://github.com/user-attachments/assets/ca9372f7-21b9-4c35-a28e-8f4a2b48c3ba" /></br>
+Back View
