@@ -16,3 +16,7 @@ Covered Car Chassis
 
 <img width="927" height="456" alt="freecad_Wu2rZjXc3u" src="https://github.com/user-attachments/assets/ca9372f7-21b9-4c35-a28e-8f4a2b48c3ba" /></br>
 Back View
+
+<img width="602" height="312" alt="freecad_rYx7EDLaq3" src="https://github.com/user-attachments/assets/4ee76d1c-6d6c-49fd-a3af-c9da4235915b" /></br>
+Support for verticle printing
+
